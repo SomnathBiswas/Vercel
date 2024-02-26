@@ -55,13 +55,13 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                 <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>About Me</h2>
                 <p className='font-medium'>
-                Hello 👋 I'm Somnath Biswas, a B.Tech. final year student specializing in Computer Science & Engineering. Passionate about coding and problem-solving, I have found my true calling in Web Development. 💻 As a fervent learner, I've honed my skills in HTML, CSS, JavaScript, and modern frameworks like React. 
+                Hello 👋 I&apos;m Somnath Biswas, a B.Tech. final year student specializing in Computer Science & Engineering. Passionate about coding and problem-solving, I have found my true calling in Web Development. 💻 As a fervent learner, I&apos;ve honed my skills in HTML, CSS, JavaScript, and modern frameworks like React. 
                 </p>
                 <p className='my-4 font-medium'>
-                Crafting intuitive web applications and creating seamless user experiences excites me. 🎯 My journey has been a quest to solve complex problems with elegant solutions. Whether it's a coding challenge or a real-life obstacle, I thrive on finding innovative ways to overcome them. 🌐 With graduation on the horizon, I'm eager to embark on a fulfilling career in Web Development. I'm open to exciting opportunities where I can contribute my creativity and technical acumen.
+                Crafting intuitive web applications and creating seamless user experiences excites me. 🎯 My journey has been a quest to solve complex problems with elegant solutions. Whether it&apos;s a coding challenge or a real-life obstacle, I thrive on finding innovative ways to overcome them. 🌐 With graduation on the horizon, I&apos;m eager to embark on a fulfilling career in Web Development. I&apos;m open to exciting opportunities where I can contribute my creativity and technical acumen.
                 </p>
                 <p className='font-medium'>
-                🤝 Let's connect! I'm enthusiastic about networking with fellow professionals, mentors, and potential collaborators. Feel free to reach out to me via LinkedIn messaging or at somnathbiswas576@gmail.com. Together, let's shape the future of web technology!
+                🤝 Let&apos;s connect! I&apos;m enthusiastic about networking with fellow professionals, mentors, and potential collaborators. Feel free to reach out to me via LinkedIn messaging or at somnathbiswas576@gmail.com. Together, let&apos;s shape the future of web technology!
                 </p>
             </div>
 

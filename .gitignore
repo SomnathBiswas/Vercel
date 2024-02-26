@@ -29,4 +29,7 @@ yarn-error.log*
 .env*.local
 
 # vercel
-.vercel
+/.vercel/
+
+#vscode
+/.vscode/
