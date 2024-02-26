@@ -1,11 +1,11 @@
-import React, { useRef } from 'react';
+import React, { useRef } from 'react'
 import { motion, useScroll } from "framer-motion"
-import LiIcon from './LiIcon';
+import LiIcon from './LiIcon'
 import AnimatedText from '@/components/AnimatedText'
 
 
 const Details = ({ type, time, place, info }) => {
-    const ref = useRef(null);
+    const ref = useRef(null)
     return (
         <li ref={ref} className='my-8 first:mt-0 last:mb-0 w-[60%] mx-auto flex flex-col items-center justify-between
         md:w-[80%]'>
@@ -28,13 +28,13 @@ const Details = ({ type, time, place, info }) => {
                 </p>
             </motion.div>
         </li>
-    );
-};
+    )
+}
 
 
 
 const Education = () => {
-    const ref = useRef(null);
+    const ref = useRef(null)
     const { scrollYProgress } = useScroll(
         {
             target: ref,
